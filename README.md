@@ -23,3 +23,4 @@ begin
   end;
 end;
 ```
+![Procmon](https://github.com/lartsev1337/ProcMonDebugOutput/blob/main/procmon.png?raw=true)
